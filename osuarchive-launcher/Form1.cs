@@ -16,7 +16,5 @@ namespace osu_archive_launcher
         {
             InitializeComponent();
         }
-
-
     }
 }

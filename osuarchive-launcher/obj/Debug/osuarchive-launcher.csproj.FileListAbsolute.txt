@@ -1,0 +1,12 @@
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.csprojAssemblyReference.cache
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osu_archive_launcher.Properties.Resources.resources
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.csproj.GenerateResource.cache
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.csproj.CoreCompileInputs.cache
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\bin\Debug\osuarchive-launcher.exe.config
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\bin\Debug\osuarchive-launcher.exe
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\bin\Debug\osuarchive-launcher.pdb
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.csproj.CopyComplete
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.exe
+C:\Users\hubzi\source\repos\osuarchive-launcher\osuarchive-launcher\obj\Debug\osuarchive-launcher.pdb
